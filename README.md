@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Project Title](#AMAZON--Clone-using-HTML-and-CSS)
+- [Project Title](#AMAZON-Clone-using-HTML-and-CSS)
   - [Table of Contents](#table-of-contents)
   - [Demo](#demo)
   - [Installation](#installation)

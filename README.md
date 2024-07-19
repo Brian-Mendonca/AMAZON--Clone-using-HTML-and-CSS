@@ -40,4 +40,4 @@
 
 Brian Mendonca - [brianmendonca12@gmail.com](mailto:brianmendonca12@gmail.com)
 
-Project Link: [AMAZON--Clone-using-HTML-and-CSS](https://github.com/Brian-Mendonca/AMAZON--Clone-using-HTML-and-CSS)
+Project Link: [AMAZON Clone using HTML and CSS](https://github.com/Brian-Mendonca/AMAZON--Clone-using-HTML-and-CSS)

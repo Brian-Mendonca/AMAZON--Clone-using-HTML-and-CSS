@@ -15,8 +15,6 @@
 
 ![image](https://github.com/user-attachments/assets/eeb75895-ea8b-4c50-86c6-20be780585f4)
 
-![image](https://github.com/user-attachments/assets/d8a86b21-3789-45df-ba0b-b85b93d50e1e)
-
 ![image](https://github.com/user-attachments/assets/0c4d6fcd-ba18-4d61-a42f-090f70acdee6)
 
 
@@ -42,4 +40,4 @@
 
 Brian Mendonca - [brianmendonca12@gmail.com](mailto:brianmendonca12@gmail.com)
 
-Project Link: [AMAZON--Clone-using-HTML-and-CSS](https://github.com/Brian-Mendonca/AMAZON--Clone-using-HTML-and-CSS))
+Project Link: [AMAZON--Clone-using-HTML-and-CSS](https://github.com/Brian-Mendonca/AMAZON--Clone-using-HTML-and-CSS)
